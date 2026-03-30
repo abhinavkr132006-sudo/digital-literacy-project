@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 - Name: Abhinav Kumar
-- Registration Number: [Your Reg No]
-- Branch: [Your Branch]
+- Registration Number: [25BCE11151]
+- Branch: [CSE(Core)]
 - University: VIT Bhopal University
 
 ---
@@ -40,15 +40,11 @@ Created professional profiles on:
 
 ## 🔗 Links
 
-- GitHub Repository: [Add your repo link here]
-- Google Form: [Paste your form link here]
+- GitHub Repository: [https://github.com/abhinavkr132006-sudo/digital-literacy-project]
+
 
 ---
 
-## 📄 Report
-The detailed project report is available in the `report/` folder.
-
----
 
 ## ✅ Conclusion
 This project helped in understanding digital tools, improving online presence, and learning safe digital practices.
